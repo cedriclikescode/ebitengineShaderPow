@@ -1,4 +1,4 @@
-module powBrokenTest
+module github.com/cedriclikescode/ebitengineShaderPow
 
 go 1.19
 
