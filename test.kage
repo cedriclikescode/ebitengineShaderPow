@@ -1,0 +1,4 @@
+package main
+func test() float {
+	return pow(1.0, 16.0)
+}
